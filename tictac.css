@@ -1,0 +1,86 @@
+.text{
+    font-size: 60px;
+    text-align: center;
+    border: gray solid 9px;
+    padding: 20px;
+    font-family: 'Road Rage';
+
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.square{
+    padding: 100px;
+    border: 3px solid black ;
+}
+
+ body{
+    background-color: lightblue;
+}
+
+#b1:hover{
+ cursor: pointer;
+ background-color: lightcyan;
+}
+
+#b2:hover{
+    cursor: pointer;
+    background-color: lightcyan;
+}
+
+#b3:hover{
+    cursor: pointer;
+    background-color: lightcyan;
+   }
+
+#b4:hover{
+    cursor: pointer;
+    background-color: lightcyan;
+   }
+
+#b5:hover{
+    cursor: pointer;
+    background-color: lightcyan;
+   }
+
+#b6:hover{
+    cursor: pointer;
+    background-color: lightcyan;
+   }
+
+#b7:hover{
+    cursor: pointer;
+    background-color: lightcyan;
+   }
+
+#b8:hover{
+    cursor: pointer;
+    background-color: lightcyan;
+   }
+
+#b9:hover{
+    cursor: pointer;
+    background-color: lightcyan;
+   }
+
+
+#message{
+    text-decoration-line: underline;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Road Rage';
+}
+
+#start{
+    height: 100px;
+    width: 200px;
+    background-color: lightcyan;
+    font-family: 'Road Rage';
+    font-size: 60px;
+}
